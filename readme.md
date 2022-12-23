@@ -1,0 +1,1 @@
+Este projeto tem como objetivo plotar figuras geometricas 3D, o modo de uso é simples, basta executar e será aberta uma mainWindow, onde podemos escolher as figuras e suas respectivas dimensões e em seguida salvar em um arquivo .off, que podera ser interpretado pelo MeshLab
